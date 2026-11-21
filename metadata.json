@@ -1,0 +1,8 @@
+{
+  "name": "Remix PEACE — BGMI Kill Feed Detector \u0026 Highlight Clipper",
+  "description": "Upgraded PEACE project for BGMI kill-feed detection, screenshot capture, and automated highlight video clipping.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
